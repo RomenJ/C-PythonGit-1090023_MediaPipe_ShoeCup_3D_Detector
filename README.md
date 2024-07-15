@@ -1,5 +1,5 @@
 # MediaPipe Shoe/Cup 3D Detector
-
+#Inspired by: https://omes-va.com/mediapipe-objectron-python/
 ![Demo](demo.gif)
 
 This application demonstrates real-time 3D object detection using MediaPipe's Objectron model. It allows users to select between a "Shoe" or "Cup" model and view the detected objects with 3D landmarks and axis projections.
